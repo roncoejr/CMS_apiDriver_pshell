@@ -1,5 +1,5 @@
 ﻿##
-##
+## Command set to create new objects in Powershell
 ##
 ##
 ##

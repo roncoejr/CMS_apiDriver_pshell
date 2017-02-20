@@ -1,5 +1,5 @@
 ﻿##
-##
+## Command set to change existing properties of objects in CMS.
 ##
 ##
 ##
